@@ -1,0 +1,21 @@
+{
+  "name": "exarape",
+  "version": "1.0.0",
+  "main": "main.js",
+  "bin": "main.js",
+  "dependencies": {
+    "memoryjs": "^3.2.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "robotjs": "^0.6.0"
+  },
+  "devDependencies": {
+    "electron": "^7.1.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
